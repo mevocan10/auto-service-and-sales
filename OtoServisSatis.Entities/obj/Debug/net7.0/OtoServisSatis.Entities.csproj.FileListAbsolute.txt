@@ -1,0 +1,24 @@
+C:\Users\mevo\Desktop\webprojesi\OtoServisSatis\OtoServisSatis.Entities\bin\Debug\net7.0\OtoServisSatis.Entities.deps.json
+C:\Users\mevo\Desktop\webprojesi\OtoServisSatis\OtoServisSatis.Entities\bin\Debug\net7.0\OtoServisSatis.Entities.dll
+C:\Users\mevo\Desktop\webprojesi\OtoServisSatis\OtoServisSatis.Entities\bin\Debug\net7.0\OtoServisSatis.Entities.pdb
+C:\Users\mevo\Desktop\webprojesi\OtoServisSatis\OtoServisSatis.Entities\obj\Debug\net7.0\OtoServisSatis.Entities.csproj.AssemblyReference.cache
+C:\Users\mevo\Desktop\webprojesi\OtoServisSatis\OtoServisSatis.Entities\obj\Debug\net7.0\OtoServisSatis.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mevo\Desktop\webprojesi\OtoServisSatis\OtoServisSatis.Entities\obj\Debug\net7.0\OtoServisSatis.Entities.AssemblyInfoInputs.cache
+C:\Users\mevo\Desktop\webprojesi\OtoServisSatis\OtoServisSatis.Entities\obj\Debug\net7.0\OtoServisSatis.Entities.AssemblyInfo.cs
+C:\Users\mevo\Desktop\webprojesi\OtoServisSatis\OtoServisSatis.Entities\obj\Debug\net7.0\OtoServisSatis.Entities.csproj.CoreCompileInputs.cache
+C:\Users\mevo\Desktop\webprojesi\OtoServisSatis\OtoServisSatis.Entities\obj\Debug\net7.0\OtoServisSatis.Entities.dll
+C:\Users\mevo\Desktop\webprojesi\OtoServisSatis\OtoServisSatis.Entities\obj\Debug\net7.0\refint\OtoServisSatis.Entities.dll
+C:\Users\mevo\Desktop\webprojesi\OtoServisSatis\OtoServisSatis.Entities\obj\Debug\net7.0\OtoServisSatis.Entities.pdb
+C:\Users\mevo\Desktop\webprojesi\OtoServisSatis\OtoServisSatis.Entities\obj\Debug\net7.0\ref\OtoServisSatis.Entities.dll
+C:\Users\mevo\Desktop\WEB PROJE\webprojesi\OtoServisSatis\OtoServisSatis.Entities\bin\Debug\net7.0\OtoServisSatis.Entities.deps.json
+C:\Users\mevo\Desktop\WEB PROJE\webprojesi\OtoServisSatis\OtoServisSatis.Entities\bin\Debug\net7.0\OtoServisSatis.Entities.dll
+C:\Users\mevo\Desktop\WEB PROJE\webprojesi\OtoServisSatis\OtoServisSatis.Entities\bin\Debug\net7.0\OtoServisSatis.Entities.pdb
+C:\Users\mevo\Desktop\WEB PROJE\webprojesi\OtoServisSatis\OtoServisSatis.Entities\obj\Debug\net7.0\OtoServisSatis.Entities.csproj.AssemblyReference.cache
+C:\Users\mevo\Desktop\WEB PROJE\webprojesi\OtoServisSatis\OtoServisSatis.Entities\obj\Debug\net7.0\OtoServisSatis.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mevo\Desktop\WEB PROJE\webprojesi\OtoServisSatis\OtoServisSatis.Entities\obj\Debug\net7.0\OtoServisSatis.Entities.AssemblyInfoInputs.cache
+C:\Users\mevo\Desktop\WEB PROJE\webprojesi\OtoServisSatis\OtoServisSatis.Entities\obj\Debug\net7.0\OtoServisSatis.Entities.AssemblyInfo.cs
+C:\Users\mevo\Desktop\WEB PROJE\webprojesi\OtoServisSatis\OtoServisSatis.Entities\obj\Debug\net7.0\OtoServisSatis.Entities.csproj.CoreCompileInputs.cache
+C:\Users\mevo\Desktop\WEB PROJE\webprojesi\OtoServisSatis\OtoServisSatis.Entities\obj\Debug\net7.0\OtoServisSatis.Entities.dll
+C:\Users\mevo\Desktop\WEB PROJE\webprojesi\OtoServisSatis\OtoServisSatis.Entities\obj\Debug\net7.0\refint\OtoServisSatis.Entities.dll
+C:\Users\mevo\Desktop\WEB PROJE\webprojesi\OtoServisSatis\OtoServisSatis.Entities\obj\Debug\net7.0\OtoServisSatis.Entities.pdb
+C:\Users\mevo\Desktop\WEB PROJE\webprojesi\OtoServisSatis\OtoServisSatis.Entities\obj\Debug\net7.0\ref\OtoServisSatis.Entities.dll

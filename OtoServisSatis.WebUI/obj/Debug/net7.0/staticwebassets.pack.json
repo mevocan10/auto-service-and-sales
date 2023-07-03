@@ -1,0 +1,557 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\mevo\\Desktop\\WEB PROJE\\webprojesi\\OtoServisSatis\\OtoServisSatis.WebUI\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\OtoServisSatis.WebUI.bundle.scp.css",
+      "PackagePath": "staticwebassets\\OtoServisSatis.WebUI.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\mevo\\Desktop\\WEB PROJE\\webprojesi\\OtoServisSatis\\OtoServisSatis.WebUI\\wwwroot\\Img\\Cars\\1-1.jpg",
+      "PackagePath": "staticwebassets\\Img\\Cars\\1-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mevo\\Desktop\\WEB PROJE\\webprojesi\\OtoServisSatis\\OtoServisSatis.WebUI\\wwwroot\\Img\\Cars\\1579884760_yeni_renault_clio_21-kopya_16_9_1580102874.jpg",
+      "PackagePath": "staticwebassets\\Img\\Cars\\1579884760_yeni_renault_clio_21-kopya_16_9_1580102874.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mevo\\Desktop\\WEB PROJE\\webprojesi\\OtoServisSatis\\OtoServisSatis.WebUI\\wwwroot\\Img\\Cars\\1640592090_899.jpg",
+      "PackagePath": "staticwebassets\\Img\\Cars\\1640592090_899.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mevo\\Desktop\\WEB PROJE\\webprojesi\\OtoServisSatis\\OtoServisSatis.WebUI\\wwwroot\\Img\\Cars\\20170128032048_seat_leon_fr_22.jpg",
+      "PackagePath": "staticwebassets\\Img\\Cars\\20170128032048_seat_leon_fr_22.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mevo\\Desktop\\WEB PROJE\\webprojesi\\OtoServisSatis\\OtoServisSatis.WebUI\\wwwroot\\Img\\Cars\\2019_BMW_3_SERIES_pic-10.jpg",
+      "PackagePath": "staticwebassets\\Img\\Cars\\2019_BMW_3_SERIES_pic-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mevo\\Desktop\\WEB PROJE\\webprojesi\\OtoServisSatis\\OtoServisSatis.WebUI\\wwwroot\\Img\\Cars\\2019_BMW_3_SERIES_pic-9.jpg",
+      "PackagePath": "staticwebassets\\Img\\Cars\\2019_BMW_3_SERIES_pic-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mevo\\Desktop\\WEB PROJE\\webprojesi\\OtoServisSatis\\OtoServisSatis.WebUI\\wwwroot\\Img\\Cars\\2021-audi-a4-45-tfsi-quattro-107-1607927014.jpg",
+      "PackagePath": "staticwebassets\\Img\\Cars\\2021-audi-a4-45-tfsi-quattro-107-1607927014.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mevo\\Desktop\\WEB PROJE\\webprojesi\\OtoServisSatis\\OtoServisSatis.WebUI\\wwwroot\\Img\\Cars\\20210325_123036-scaled.jpg",
+      "PackagePath": "staticwebassets\\Img\\Cars\\20210325_123036-scaled.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mevo\\Desktop\\WEB PROJE\\webprojesi\\OtoServisSatis\\OtoServisSatis.WebUI\\wwwroot\\Img\\Cars\\20210528180153_36.jpg",
+      "PackagePath": "staticwebassets\\Img\\Cars\\20210528180153_36.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mevo\\Desktop\\WEB PROJE\\webprojesi\\OtoServisSatis\\OtoServisSatis.WebUI\\wwwroot\\Img\\Cars\\2022-audi-a4-mmp-1-1621027611.jpg",
+      "PackagePath": "staticwebassets\\Img\\Cars\\2022-audi-a4-mmp-1-1621027611.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mevo\\Desktop\\WEB PROJE\\webprojesi\\OtoServisSatis\\OtoServisSatis.WebUI\\wwwroot\\Img\\Cars\\2022-audi-a4.jpg",
+      "PackagePath": "staticwebassets\\Img\\Cars\\2022-audi-a4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mevo\\Desktop\\WEB PROJE\\webprojesi\\OtoServisSatis\\OtoServisSatis.WebUI\\wwwroot\\Img\\Cars\\2023-honda-civic-ehev-6.jpg",
+      "PackagePath": "staticwebassets\\Img\\Cars\\2023-honda-civic-ehev-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mevo\\Desktop\\WEB PROJE\\webprojesi\\OtoServisSatis\\OtoServisSatis.WebUI\\wwwroot\\Img\\Cars\\24d431bfe23a4e188d61e385f74475460304201811222016393_35_Buyuk.jpg",
+      "PackagePath": "staticwebassets\\Img\\Cars\\24d431bfe23a4e188d61e385f74475460304201811222016393_35_Buyuk.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mevo\\Desktop\\WEB PROJE\\webprojesi\\OtoServisSatis\\OtoServisSatis.WebUI\\wwwroot\\Img\\Cars\\367081-all-new-honda-civic-e-hev-to-deliver-exceptional-dynamics-and-efficiency-as-1-scaled-e1648140498917.jpg",
+      "PackagePath": "staticwebassets\\Img\\Cars\\367081-all-new-honda-civic-e-hev-to-deliver-exceptional-dynamics-and-efficiency-as-1-scaled-e1648140498917.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mevo\\Desktop\\WEB PROJE\\webprojesi\\OtoServisSatis\\OtoServisSatis.WebUI\\wwwroot\\Img\\Cars\\HONDA_CIVIC_10-1280x800.jpg",
+      "PackagePath": "staticwebassets\\Img\\Cars\\HONDA_CIVIC_10-1280x800.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mevo\\Desktop\\WEB PROJE\\webprojesi\\OtoServisSatis\\OtoServisSatis.WebUI\\wwwroot\\Img\\Cars\\HONDA_CIVIC_3.jpg",
+      "PackagePath": "staticwebassets\\Img\\Cars\\HONDA_CIVIC_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mevo\\Desktop\\WEB PROJE\\webprojesi\\OtoServisSatis\\OtoServisSatis.WebUI\\wwwroot\\Img\\Cars\\HONDA_CIVIC_5-1280x800.jpg",
+      "PackagePath": "staticwebassets\\Img\\Cars\\HONDA_CIVIC_5-1280x800.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mevo\\Desktop\\WEB PROJE\\webprojesi\\OtoServisSatis\\OtoServisSatis.WebUI\\wwwroot\\Img\\Cars\\Hyundai-Tucson-Plug-in-Hybrid-2022.jpg",
+      "PackagePath": "staticwebassets\\Img\\Cars\\Hyundai-Tucson-Plug-in-Hybrid-2022.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mevo\\Desktop\\WEB PROJE\\webprojesi\\OtoServisSatis\\OtoServisSatis.WebUI\\wwwroot\\Img\\Cars\\Otomobilport.com_.tr_.Renault.yeni_.Clio_.5.jpg",
+      "PackagePath": "staticwebassets\\Img\\Cars\\Otomobilport.com_.tr_.Renault.yeni_.Clio_.5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mevo\\Desktop\\WEB PROJE\\webprojesi\\OtoServisSatis\\OtoServisSatis.WebUI\\wwwroot\\Img\\Cars\\PEUGEOT_3008_GT_BLANC.jpg",
+      "PackagePath": "staticwebassets\\Img\\Cars\\PEUGEOT_3008_GT_BLANC.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mevo\\Desktop\\WEB PROJE\\webprojesi\\OtoServisSatis\\OtoServisSatis.WebUI\\wwwroot\\Img\\Cars\\Seat_Leon_Mk3f_5F_FR_2016_1000_0002.jpg",
+      "PackagePath": "staticwebassets\\Img\\Cars\\Seat_Leon_Mk3f_5F_FR_2016_1000_0002.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mevo\\Desktop\\WEB PROJE\\webprojesi\\OtoServisSatis\\OtoServisSatis.WebUI\\wwwroot\\Img\\Cars\\WGourSOWN0KJcsm_NSLtRQ.webp",
+      "PackagePath": "staticwebassets\\Img\\Cars\\WGourSOWN0KJcsm_NSLtRQ.webp"
+    },
+    {
+      "Id": "C:\\Users\\mevo\\Desktop\\WEB PROJE\\webprojesi\\OtoServisSatis\\OtoServisSatis.WebUI\\wwwroot\\Img\\Cars\\a36e8d3f7cf449028b635435a9daa5ca0304201811191784207_0_Buyuk.jpg",
+      "PackagePath": "staticwebassets\\Img\\Cars\\a36e8d3f7cf449028b635435a9daa5ca0304201811191784207_0_Buyuk.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mevo\\Desktop\\WEB PROJE\\webprojesi\\OtoServisSatis\\OtoServisSatis.WebUI\\wwwroot\\Img\\Cars\\araba.jpg",
+      "PackagePath": "staticwebassets\\Img\\Cars\\araba.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mevo\\Desktop\\WEB PROJE\\webprojesi\\OtoServisSatis\\OtoServisSatis.WebUI\\wwwroot\\Img\\Cars\\aracduster.jpg",
+      "PackagePath": "staticwebassets\\Img\\Cars\\aracduster.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mevo\\Desktop\\WEB PROJE\\webprojesi\\OtoServisSatis\\OtoServisSatis.WebUI\\wwwroot\\Img\\Cars\\bmw-320e-elektrikli.png",
+      "PackagePath": "staticwebassets\\Img\\Cars\\bmw-320e-elektrikli.png"
+    },
+    {
+      "Id": "C:\\Users\\mevo\\Desktop\\WEB PROJE\\webprojesi\\OtoServisSatis\\OtoServisSatis.WebUI\\wwwroot\\Img\\Cars\\duster.jpg",
+      "PackagePath": "staticwebassets\\Img\\Cars\\duster.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mevo\\Desktop\\WEB PROJE\\webprojesi\\OtoServisSatis\\OtoServisSatis.WebUI\\wwwroot\\Img\\Cars\\ford-focus-2018.jpg",
+      "PackagePath": "staticwebassets\\Img\\Cars\\ford-focus-2018.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mevo\\Desktop\\WEB PROJE\\webprojesi\\OtoServisSatis\\OtoServisSatis.WebUI\\wwwroot\\Img\\Cars\\ford-focus-st-line-restyling-2022.jpg",
+      "PackagePath": "staticwebassets\\Img\\Cars\\ford-focus-st-line-restyling-2022.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mevo\\Desktop\\WEB PROJE\\webprojesi\\OtoServisSatis\\OtoServisSatis.WebUI\\wwwroot\\Img\\Cars\\honda-civic-hatchback-2022.jpg",
+      "PackagePath": "staticwebassets\\Img\\Cars\\honda-civic-hatchback-2022.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mevo\\Desktop\\WEB PROJE\\webprojesi\\OtoServisSatis\\OtoServisSatis.WebUI\\wwwroot\\Img\\Cars\\mevo.jpg",
+      "PackagePath": "staticwebassets\\Img\\Cars\\mevo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mevo\\Desktop\\WEB PROJE\\webprojesi\\OtoServisSatis\\OtoServisSatis.WebUI\\wwwroot\\Img\\Cars\\nissan-qashqai-2021-e1642509686654.jpg.webp",
+      "PackagePath": "staticwebassets\\Img\\Cars\\nissan-qashqai-2021-e1642509686654.jpg.webp"
+    },
+    {
+      "Id": "C:\\Users\\mevo\\Desktop\\WEB PROJE\\webprojesi\\OtoServisSatis\\OtoServisSatis.WebUI\\wwwroot\\Img\\Cars\\nissan-qashqai-midnight-edition-3.jpg",
+      "PackagePath": "staticwebassets\\Img\\Cars\\nissan-qashqai-midnight-edition-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mevo\\Desktop\\WEB PROJE\\webprojesi\\OtoServisSatis\\OtoServisSatis.WebUI\\wwwroot\\Img\\Cars\\qashqai-midnight-edition-17.jpg.ximg.l_12_m.smart.jpg",
+      "PackagePath": "staticwebassets\\Img\\Cars\\qashqai-midnight-edition-17.jpg.ximg.l_12_m.smart.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mevo\\Desktop\\WEB PROJE\\webprojesi\\OtoServisSatis\\OtoServisSatis.WebUI\\wwwroot\\Img\\Cars\\skoda-superb-adini-gercekten-hakeden-bir-otomobil.jpg",
+      "PackagePath": "staticwebassets\\Img\\Cars\\skoda-superb-adini-gercekten-hakeden-bir-otomobil.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mevo\\Desktop\\WEB PROJE\\webprojesi\\OtoServisSatis\\OtoServisSatis.WebUI\\wwwroot\\Img\\Cars\\skoda-superb-bugune-kadar-yollari-aydinlatmis-en-muhtesem-gozler.jpg",
+      "PackagePath": "staticwebassets\\Img\\Cars\\skoda-superb-bugune-kadar-yollari-aydinlatmis-en-muhtesem-gozler.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mevo\\Desktop\\WEB PROJE\\webprojesi\\OtoServisSatis\\OtoServisSatis.WebUI\\wwwroot\\Img\\Cars\\skoda-superb-zamanin-otesinde-tasarim.jpg",
+      "PackagePath": "staticwebassets\\Img\\Cars\\skoda-superb-zamanin-otesinde-tasarim.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mevo\\Desktop\\WEB PROJE\\webprojesi\\OtoServisSatis\\OtoServisSatis.WebUI\\wwwroot\\Img\\Cars\\tr-nissan-qq-midnight-edition-haber.02.jpg.ximg.l_12_m.smart.jpg",
+      "PackagePath": "staticwebassets\\Img\\Cars\\tr-nissan-qq-midnight-edition-haber.02.jpg.ximg.l_12_m.smart.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mevo\\Desktop\\WEB PROJE\\webprojesi\\OtoServisSatis\\OtoServisSatis.WebUI\\wwwroot\\Img\\Cars\\tr-nissan-yeni-qashqai-satis-kampanya.jpg.ximg.l_6_m.smart.jpg",
+      "PackagePath": "staticwebassets\\Img\\Cars\\tr-nissan-yeni-qashqai-satis-kampanya.jpg.ximg.l_6_m.smart.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mevo\\Desktop\\WEB PROJE\\webprojesi\\OtoServisSatis\\OtoServisSatis.WebUI\\wwwroot\\Img\\Cars\\tucson-nx4-highlights-gallery-05-pc.jpg",
+      "PackagePath": "staticwebassets\\Img\\Cars\\tucson-nx4-highlights-gallery-05-pc.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mevo\\Desktop\\WEB PROJE\\webprojesi\\OtoServisSatis\\OtoServisSatis.WebUI\\wwwroot\\Img\\Cars\\yeni-ford-focus--2.jpg",
+      "PackagePath": "staticwebassets\\Img\\Cars\\yeni-ford-focus--2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mevo\\Desktop\\WEB PROJE\\webprojesi\\OtoServisSatis\\OtoServisSatis.WebUI\\wwwroot\\Img\\Slider\\2019_BMW_3_SERIES_pic-10.jpg",
+      "PackagePath": "staticwebassets\\Img\\Slider\\2019_BMW_3_SERIES_pic-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mevo\\Desktop\\WEB PROJE\\webprojesi\\OtoServisSatis\\OtoServisSatis.WebUI\\wwwroot\\Img\\Slider\\2022-audi-a4.jpg",
+      "PackagePath": "staticwebassets\\Img\\Slider\\2022-audi-a4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mevo\\Desktop\\WEB PROJE\\webprojesi\\OtoServisSatis\\OtoServisSatis.WebUI\\wwwroot\\Img\\Slider\\2022_Audi_A4.jpg",
+      "PackagePath": "staticwebassets\\Img\\Slider\\2022_Audi_A4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mevo\\Desktop\\WEB PROJE\\webprojesi\\OtoServisSatis\\OtoServisSatis.WebUI\\wwwroot\\Img\\Slider\\3658665.jpg",
+      "PackagePath": "staticwebassets\\Img\\Slider\\3658665.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mevo\\Desktop\\WEB PROJE\\webprojesi\\OtoServisSatis\\OtoServisSatis.WebUI\\wwwroot\\Img\\Slider\\367081-all-new-honda-civic-e-hev-to-deliver-exceptional-dynamics-and-efficiency-as-1-scaled-e1648140498917.jpg",
+      "PackagePath": "staticwebassets\\Img\\Slider\\367081-all-new-honda-civic-e-hev-to-deliver-exceptional-dynamics-and-efficiency-as-1-scaled-e1648140498917.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mevo\\Desktop\\WEB PROJE\\webprojesi\\OtoServisSatis\\OtoServisSatis.WebUI\\wwwroot\\Img\\Slider\\367081-all-new-honda-civic-e-hev-to-deliver-exceptional-dynamics-and-efficiency-as-1-scaled-e1648140498917.png",
+      "PackagePath": "staticwebassets\\Img\\Slider\\367081-all-new-honda-civic-e-hev-to-deliver-exceptional-dynamics-and-efficiency-as-1-scaled-e1648140498917.png"
+    },
+    {
+      "Id": "C:\\Users\\mevo\\Desktop\\WEB PROJE\\webprojesi\\OtoServisSatis\\OtoServisSatis.WebUI\\wwwroot\\Img\\Slider\\782950f99db222ceef5.jpg",
+      "PackagePath": "staticwebassets\\Img\\Slider\\782950f99db222ceef5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mevo\\Desktop\\WEB PROJE\\webprojesi\\OtoServisSatis\\OtoServisSatis.WebUI\\wwwroot\\Img\\Slider\\araba.jpg",
+      "PackagePath": "staticwebassets\\Img\\Slider\\araba.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mevo\\Desktop\\WEB PROJE\\webprojesi\\OtoServisSatis\\OtoServisSatis.WebUI\\wwwroot\\Img\\Slider\\aracduster.jpg",
+      "PackagePath": "staticwebassets\\Img\\Slider\\aracduster.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mevo\\Desktop\\WEB PROJE\\webprojesi\\OtoServisSatis\\OtoServisSatis.WebUI\\wwwroot\\Img\\Slider\\audi-rs-6-avant-2019.jpg",
+      "PackagePath": "staticwebassets\\Img\\Slider\\audi-rs-6-avant-2019.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mevo\\Desktop\\WEB PROJE\\webprojesi\\OtoServisSatis\\OtoServisSatis.WebUI\\wwwroot\\Img\\Slider\\civic-hybrid-2jpg-20220325070724.jpg",
+      "PackagePath": "staticwebassets\\Img\\Slider\\civic-hybrid-2jpg-20220325070724.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mevo\\Desktop\\WEB PROJE\\webprojesi\\OtoServisSatis\\OtoServisSatis.WebUI\\wwwroot\\Img\\Slider\\cute-orange-zeppelin-flat-design-cartoon-for-shirt-poster-gift-card-cover-logo-sticker-and-icon-free-vector-removebg-preview.png",
+      "PackagePath": "staticwebassets\\Img\\Slider\\cute-orange-zeppelin-flat-design-cartoon-for-shirt-poster-gift-card-cover-logo-sticker-and-icon-free-vector-removebg-preview.png"
+    },
+    {
+      "Id": "C:\\Users\\mevo\\Desktop\\WEB PROJE\\webprojesi\\OtoServisSatis\\OtoServisSatis.WebUI\\wwwroot\\Img\\Slider\\duster.jpg",
+      "PackagePath": "staticwebassets\\Img\\Slider\\duster.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mevo\\Desktop\\WEB PROJE\\webprojesi\\OtoServisSatis\\OtoServisSatis.WebUI\\wwwroot\\admin\\401.html",
+      "PackagePath": "staticwebassets\\admin\\401.html"
+    },
+    {
+      "Id": "C:\\Users\\mevo\\Desktop\\WEB PROJE\\webprojesi\\OtoServisSatis\\OtoServisSatis.WebUI\\wwwroot\\admin\\404.html",
+      "PackagePath": "staticwebassets\\admin\\404.html"
+    },
+    {
+      "Id": "C:\\Users\\mevo\\Desktop\\WEB PROJE\\webprojesi\\OtoServisSatis\\OtoServisSatis.WebUI\\wwwroot\\admin\\500.html",
+      "PackagePath": "staticwebassets\\admin\\500.html"
+    },
+    {
+      "Id": "C:\\Users\\mevo\\Desktop\\WEB PROJE\\webprojesi\\OtoServisSatis\\OtoServisSatis.WebUI\\wwwroot\\admin\\assets\\demo\\chart-area-demo.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\demo\\chart-area-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\mevo\\Desktop\\WEB PROJE\\webprojesi\\OtoServisSatis\\OtoServisSatis.WebUI\\wwwroot\\admin\\assets\\demo\\chart-bar-demo.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\demo\\chart-bar-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\mevo\\Desktop\\WEB PROJE\\webprojesi\\OtoServisSatis\\OtoServisSatis.WebUI\\wwwroot\\admin\\assets\\demo\\chart-pie-demo.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\demo\\chart-pie-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\mevo\\Desktop\\WEB PROJE\\webprojesi\\OtoServisSatis\\OtoServisSatis.WebUI\\wwwroot\\admin\\assets\\demo\\datatables-demo.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\demo\\datatables-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\mevo\\Desktop\\WEB PROJE\\webprojesi\\OtoServisSatis\\OtoServisSatis.WebUI\\wwwroot\\admin\\assets\\img\\error-404-monochrome.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\error-404-monochrome.svg"
+    },
+    {
+      "Id": "C:\\Users\\mevo\\Desktop\\WEB PROJE\\webprojesi\\OtoServisSatis\\OtoServisSatis.WebUI\\wwwroot\\admin\\charts.html",
+      "PackagePath": "staticwebassets\\admin\\charts.html"
+    },
+    {
+      "Id": "C:\\Users\\mevo\\Desktop\\WEB PROJE\\webprojesi\\OtoServisSatis\\OtoServisSatis.WebUI\\wwwroot\\admin\\css\\styles.css",
+      "PackagePath": "staticwebassets\\admin\\css\\styles.css"
+    },
+    {
+      "Id": "C:\\Users\\mevo\\Desktop\\WEB PROJE\\webprojesi\\OtoServisSatis\\OtoServisSatis.WebUI\\wwwroot\\admin\\index.html",
+      "PackagePath": "staticwebassets\\admin\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\mevo\\Desktop\\WEB PROJE\\webprojesi\\OtoServisSatis\\OtoServisSatis.WebUI\\wwwroot\\admin\\js\\datatables-simple-demo.js",
+      "PackagePath": "staticwebassets\\admin\\js\\datatables-simple-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\mevo\\Desktop\\WEB PROJE\\webprojesi\\OtoServisSatis\\OtoServisSatis.WebUI\\wwwroot\\admin\\js\\scripts.js",
+      "PackagePath": "staticwebassets\\admin\\js\\scripts.js"
+    },
+    {
+      "Id": "C:\\Users\\mevo\\Desktop\\WEB PROJE\\webprojesi\\OtoServisSatis\\OtoServisSatis.WebUI\\wwwroot\\admin\\layout-sidenav-light.html",
+      "PackagePath": "staticwebassets\\admin\\layout-sidenav-light.html"
+    },
+    {
+      "Id": "C:\\Users\\mevo\\Desktop\\WEB PROJE\\webprojesi\\OtoServisSatis\\OtoServisSatis.WebUI\\wwwroot\\admin\\layout-static.html",
+      "PackagePath": "staticwebassets\\admin\\layout-static.html"
+    },
+    {
+      "Id": "C:\\Users\\mevo\\Desktop\\WEB PROJE\\webprojesi\\OtoServisSatis\\OtoServisSatis.WebUI\\wwwroot\\admin\\login.html",
+      "PackagePath": "staticwebassets\\admin\\login.html"
+    },
+    {
+      "Id": "C:\\Users\\mevo\\Desktop\\WEB PROJE\\webprojesi\\OtoServisSatis\\OtoServisSatis.WebUI\\wwwroot\\admin\\password.html",
+      "PackagePath": "staticwebassets\\admin\\password.html"
+    },
+    {
+      "Id": "C:\\Users\\mevo\\Desktop\\WEB PROJE\\webprojesi\\OtoServisSatis\\OtoServisSatis.WebUI\\wwwroot\\admin\\register.html",
+      "PackagePath": "staticwebassets\\admin\\register.html"
+    },
+    {
+      "Id": "C:\\Users\\mevo\\Desktop\\WEB PROJE\\webprojesi\\OtoServisSatis\\OtoServisSatis.WebUI\\wwwroot\\admin\\tables.html",
+      "PackagePath": "staticwebassets\\admin\\tables.html"
+    },
+    {
+      "Id": "C:\\Users\\mevo\\Desktop\\WEB PROJE\\webprojesi\\OtoServisSatis\\OtoServisSatis.WebUI\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\mevo\\Desktop\\WEB PROJE\\webprojesi\\OtoServisSatis\\OtoServisSatis.WebUI\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\mevo\\Desktop\\WEB PROJE\\webprojesi\\OtoServisSatis\\OtoServisSatis.WebUI\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\mevo\\Desktop\\WEB PROJE\\webprojesi\\OtoServisSatis\\OtoServisSatis.WebUI\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\mevo\\Desktop\\WEB PROJE\\webprojesi\\OtoServisSatis\\OtoServisSatis.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\mevo\\Desktop\\WEB PROJE\\webprojesi\\OtoServisSatis\\OtoServisSatis.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mevo\\Desktop\\WEB PROJE\\webprojesi\\OtoServisSatis\\OtoServisSatis.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mevo\\Desktop\\WEB PROJE\\webprojesi\\OtoServisSatis\\OtoServisSatis.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mevo\\Desktop\\WEB PROJE\\webprojesi\\OtoServisSatis\\OtoServisSatis.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\mevo\\Desktop\\WEB PROJE\\webprojesi\\OtoServisSatis\\OtoServisSatis.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mevo\\Desktop\\WEB PROJE\\webprojesi\\OtoServisSatis\\OtoServisSatis.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mevo\\Desktop\\WEB PROJE\\webprojesi\\OtoServisSatis\\OtoServisSatis.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mevo\\Desktop\\WEB PROJE\\webprojesi\\OtoServisSatis\\OtoServisSatis.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\mevo\\Desktop\\WEB PROJE\\webprojesi\\OtoServisSatis\\OtoServisSatis.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mevo\\Desktop\\WEB PROJE\\webprojesi\\OtoServisSatis\\OtoServisSatis.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mevo\\Desktop\\WEB PROJE\\webprojesi\\OtoServisSatis\\OtoServisSatis.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mevo\\Desktop\\WEB PROJE\\webprojesi\\OtoServisSatis\\OtoServisSatis.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\mevo\\Desktop\\WEB PROJE\\webprojesi\\OtoServisSatis\\OtoServisSatis.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mevo\\Desktop\\WEB PROJE\\webprojesi\\OtoServisSatis\\OtoServisSatis.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mevo\\Desktop\\WEB PROJE\\webprojesi\\OtoServisSatis\\OtoServisSatis.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mevo\\Desktop\\WEB PROJE\\webprojesi\\OtoServisSatis\\OtoServisSatis.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\mevo\\Desktop\\WEB PROJE\\webprojesi\\OtoServisSatis\\OtoServisSatis.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mevo\\Desktop\\WEB PROJE\\webprojesi\\OtoServisSatis\\OtoServisSatis.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mevo\\Desktop\\WEB PROJE\\webprojesi\\OtoServisSatis\\OtoServisSatis.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mevo\\Desktop\\WEB PROJE\\webprojesi\\OtoServisSatis\\OtoServisSatis.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\mevo\\Desktop\\WEB PROJE\\webprojesi\\OtoServisSatis\\OtoServisSatis.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mevo\\Desktop\\WEB PROJE\\webprojesi\\OtoServisSatis\\OtoServisSatis.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mevo\\Desktop\\WEB PROJE\\webprojesi\\OtoServisSatis\\OtoServisSatis.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mevo\\Desktop\\WEB PROJE\\webprojesi\\OtoServisSatis\\OtoServisSatis.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\mevo\\Desktop\\WEB PROJE\\webprojesi\\OtoServisSatis\\OtoServisSatis.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mevo\\Desktop\\WEB PROJE\\webprojesi\\OtoServisSatis\\OtoServisSatis.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mevo\\Desktop\\WEB PROJE\\webprojesi\\OtoServisSatis\\OtoServisSatis.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mevo\\Desktop\\WEB PROJE\\webprojesi\\OtoServisSatis\\OtoServisSatis.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\mevo\\Desktop\\WEB PROJE\\webprojesi\\OtoServisSatis\\OtoServisSatis.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mevo\\Desktop\\WEB PROJE\\webprojesi\\OtoServisSatis\\OtoServisSatis.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mevo\\Desktop\\WEB PROJE\\webprojesi\\OtoServisSatis\\OtoServisSatis.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mevo\\Desktop\\WEB PROJE\\webprojesi\\OtoServisSatis\\OtoServisSatis.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\mevo\\Desktop\\WEB PROJE\\webprojesi\\OtoServisSatis\\OtoServisSatis.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\mevo\\Desktop\\WEB PROJE\\webprojesi\\OtoServisSatis\\OtoServisSatis.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mevo\\Desktop\\WEB PROJE\\webprojesi\\OtoServisSatis\\OtoServisSatis.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\mevo\\Desktop\\WEB PROJE\\webprojesi\\OtoServisSatis\\OtoServisSatis.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\mevo\\Desktop\\WEB PROJE\\webprojesi\\OtoServisSatis\\OtoServisSatis.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\mevo\\Desktop\\WEB PROJE\\webprojesi\\OtoServisSatis\\OtoServisSatis.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mevo\\Desktop\\WEB PROJE\\webprojesi\\OtoServisSatis\\OtoServisSatis.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\mevo\\Desktop\\WEB PROJE\\webprojesi\\OtoServisSatis\\OtoServisSatis.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\mevo\\Desktop\\WEB PROJE\\webprojesi\\OtoServisSatis\\OtoServisSatis.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\mevo\\Desktop\\WEB PROJE\\webprojesi\\OtoServisSatis\\OtoServisSatis.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mevo\\Desktop\\WEB PROJE\\webprojesi\\OtoServisSatis\\OtoServisSatis.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\mevo\\Desktop\\WEB PROJE\\webprojesi\\OtoServisSatis\\OtoServisSatis.WebUI\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\mevo\\Desktop\\WEB PROJE\\webprojesi\\OtoServisSatis\\OtoServisSatis.WebUI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\mevo\\Desktop\\WEB PROJE\\webprojesi\\OtoServisSatis\\OtoServisSatis.WebUI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mevo\\Desktop\\WEB PROJE\\webprojesi\\OtoServisSatis\\OtoServisSatis.WebUI\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\mevo\\Desktop\\WEB PROJE\\webprojesi\\OtoServisSatis\\OtoServisSatis.WebUI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\mevo\\Desktop\\WEB PROJE\\webprojesi\\OtoServisSatis\\OtoServisSatis.WebUI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mevo\\Desktop\\WEB PROJE\\webprojesi\\OtoServisSatis\\OtoServisSatis.WebUI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\mevo\\Desktop\\WEB PROJE\\webprojesi\\OtoServisSatis\\OtoServisSatis.WebUI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mevo\\Desktop\\WEB PROJE\\webprojesi\\OtoServisSatis\\OtoServisSatis.WebUI\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\mevo\\Desktop\\WEB PROJE\\webprojesi\\OtoServisSatis\\OtoServisSatis.WebUI\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\mevo\\Desktop\\WEB PROJE\\webprojesi\\OtoServisSatis\\OtoServisSatis.WebUI\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mevo\\Desktop\\WEB PROJE\\webprojesi\\OtoServisSatis\\OtoServisSatis.WebUI\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.OtoServisSatis.WebUI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.OtoServisSatis.WebUI.props",
+      "PackagePath": "build\\OtoServisSatis.WebUI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.OtoServisSatis.WebUI.props",
+      "PackagePath": "buildMultiTargeting\\OtoServisSatis.WebUI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.OtoServisSatis.WebUI.props",
+      "PackagePath": "buildTransitive\\OtoServisSatis.WebUI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

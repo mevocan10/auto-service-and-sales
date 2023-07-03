@@ -1,0 +1,34 @@
+C:\Users\mevo\Desktop\webprojesi\OtoServisSatis\OtoServisSatis.Service\bin\Debug\net7.0\OtoServisSatis.Service.deps.json
+C:\Users\mevo\Desktop\webprojesi\OtoServisSatis\OtoServisSatis.Service\bin\Debug\net7.0\OtoServisSatis.Service.dll
+C:\Users\mevo\Desktop\webprojesi\OtoServisSatis\OtoServisSatis.Service\bin\Debug\net7.0\OtoServisSatis.Service.pdb
+C:\Users\mevo\Desktop\webprojesi\OtoServisSatis\OtoServisSatis.Service\obj\Debug\net7.0\OtoServisSatis.Service.csproj.AssemblyReference.cache
+C:\Users\mevo\Desktop\webprojesi\OtoServisSatis\OtoServisSatis.Service\obj\Debug\net7.0\OtoServisSatis.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mevo\Desktop\webprojesi\OtoServisSatis\OtoServisSatis.Service\obj\Debug\net7.0\OtoServisSatis.Service.AssemblyInfoInputs.cache
+C:\Users\mevo\Desktop\webprojesi\OtoServisSatis\OtoServisSatis.Service\obj\Debug\net7.0\OtoServisSatis.Service.AssemblyInfo.cs
+C:\Users\mevo\Desktop\webprojesi\OtoServisSatis\OtoServisSatis.Service\obj\Debug\net7.0\OtoServisSatis.Service.csproj.CoreCompileInputs.cache
+C:\Users\mevo\Desktop\webprojesi\OtoServisSatis\OtoServisSatis.Service\obj\Debug\net7.0\OtoServisSatis.Service.dll
+C:\Users\mevo\Desktop\webprojesi\OtoServisSatis\OtoServisSatis.Service\obj\Debug\net7.0\refint\OtoServisSatis.Service.dll
+C:\Users\mevo\Desktop\webprojesi\OtoServisSatis\OtoServisSatis.Service\obj\Debug\net7.0\OtoServisSatis.Service.pdb
+C:\Users\mevo\Desktop\webprojesi\OtoServisSatis\OtoServisSatis.Service\obj\Debug\net7.0\ref\OtoServisSatis.Service.dll
+C:\Users\mevo\Desktop\webprojesi\OtoServisSatis\OtoServisSatis.Service\bin\Debug\net7.0\OtoServisSatis.Data.dll
+C:\Users\mevo\Desktop\webprojesi\OtoServisSatis\OtoServisSatis.Service\bin\Debug\net7.0\OtoServisSatis.Entities.dll
+C:\Users\mevo\Desktop\webprojesi\OtoServisSatis\OtoServisSatis.Service\bin\Debug\net7.0\OtoServisSatis.Data.pdb
+C:\Users\mevo\Desktop\webprojesi\OtoServisSatis\OtoServisSatis.Service\bin\Debug\net7.0\OtoServisSatis.Entities.pdb
+C:\Users\mevo\Desktop\webprojesi\OtoServisSatis\OtoServisSatis.Service\obj\Debug\net7.0\OtoServisSatis.Service.csproj.CopyComplete
+C:\Users\mevo\Desktop\WEB PROJE\webprojesi\OtoServisSatis\OtoServisSatis.Service\bin\Debug\net7.0\OtoServisSatis.Service.deps.json
+C:\Users\mevo\Desktop\WEB PROJE\webprojesi\OtoServisSatis\OtoServisSatis.Service\bin\Debug\net7.0\OtoServisSatis.Service.dll
+C:\Users\mevo\Desktop\WEB PROJE\webprojesi\OtoServisSatis\OtoServisSatis.Service\bin\Debug\net7.0\OtoServisSatis.Service.pdb
+C:\Users\mevo\Desktop\WEB PROJE\webprojesi\OtoServisSatis\OtoServisSatis.Service\bin\Debug\net7.0\OtoServisSatis.Data.dll
+C:\Users\mevo\Desktop\WEB PROJE\webprojesi\OtoServisSatis\OtoServisSatis.Service\bin\Debug\net7.0\OtoServisSatis.Entities.dll
+C:\Users\mevo\Desktop\WEB PROJE\webprojesi\OtoServisSatis\OtoServisSatis.Service\bin\Debug\net7.0\OtoServisSatis.Data.pdb
+C:\Users\mevo\Desktop\WEB PROJE\webprojesi\OtoServisSatis\OtoServisSatis.Service\bin\Debug\net7.0\OtoServisSatis.Entities.pdb
+C:\Users\mevo\Desktop\WEB PROJE\webprojesi\OtoServisSatis\OtoServisSatis.Service\obj\Debug\net7.0\OtoServisSatis.Service.csproj.AssemblyReference.cache
+C:\Users\mevo\Desktop\WEB PROJE\webprojesi\OtoServisSatis\OtoServisSatis.Service\obj\Debug\net7.0\OtoServisSatis.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mevo\Desktop\WEB PROJE\webprojesi\OtoServisSatis\OtoServisSatis.Service\obj\Debug\net7.0\OtoServisSatis.Service.AssemblyInfoInputs.cache
+C:\Users\mevo\Desktop\WEB PROJE\webprojesi\OtoServisSatis\OtoServisSatis.Service\obj\Debug\net7.0\OtoServisSatis.Service.AssemblyInfo.cs
+C:\Users\mevo\Desktop\WEB PROJE\webprojesi\OtoServisSatis\OtoServisSatis.Service\obj\Debug\net7.0\OtoServisSatis.Service.csproj.CoreCompileInputs.cache
+C:\Users\mevo\Desktop\WEB PROJE\webprojesi\OtoServisSatis\OtoServisSatis.Service\obj\Debug\net7.0\OtoServisSatis.Service.csproj.CopyComplete
+C:\Users\mevo\Desktop\WEB PROJE\webprojesi\OtoServisSatis\OtoServisSatis.Service\obj\Debug\net7.0\OtoServisSatis.Service.dll
+C:\Users\mevo\Desktop\WEB PROJE\webprojesi\OtoServisSatis\OtoServisSatis.Service\obj\Debug\net7.0\refint\OtoServisSatis.Service.dll
+C:\Users\mevo\Desktop\WEB PROJE\webprojesi\OtoServisSatis\OtoServisSatis.Service\obj\Debug\net7.0\OtoServisSatis.Service.pdb
+C:\Users\mevo\Desktop\WEB PROJE\webprojesi\OtoServisSatis\OtoServisSatis.Service\obj\Debug\net7.0\ref\OtoServisSatis.Service.dll
